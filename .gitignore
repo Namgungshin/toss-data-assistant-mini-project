@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Do not commit raw AI Hub source archives or extracted raw text.
+3.개방데이터/
+*.zip
+*.jsonl
+

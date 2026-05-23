@@ -1,0 +1,7 @@
+{
+  "label_rows": 90000,
+  "unique_labeled_source_ids": 65262,
+  "sources_with_multiple_qa": 15677,
+  "max_qa_per_source": 9,
+  "missing_counts": {}
+}
